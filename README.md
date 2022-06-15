@@ -1,3 +1,3 @@
 # Sprite-Texture-Scrolling-Unity
 Simple shader for unity that scrolls the texture
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://raw.githubusercontent.com/AikinJ/Sprite-Texture-Scrolling-Unity/main/example.gif)
