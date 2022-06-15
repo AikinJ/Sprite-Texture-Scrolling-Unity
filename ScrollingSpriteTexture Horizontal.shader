@@ -31,7 +31,7 @@ Shader "Spritescroll/ScrollHorizontal"
 				float4 vertex : SV_POSITION;
 			};
 
-			sampler2D _MainTex, _SubTex1, _SubTex2;
+			sampler2D _MainTex;
 			float4 _MainTex_ST;
 			
 			v2f vert (appdata v)
